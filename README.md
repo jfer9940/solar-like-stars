@@ -8,6 +8,7 @@ Please note that there may be some package version conflicts. Some of this code 
 _Notebooks used to analyse data, create plots, etc_
 
 solar_like_stars_sample_selection.ipynb - Code used to determine our initial sample
+
 determine_number_of_files.ipynb - Initial estimates of data volume to be processed
 
 
